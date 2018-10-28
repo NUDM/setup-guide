@@ -6,7 +6,7 @@
  - [JetBrains IDE](https://www.jetbrains.com/products.html?fromMenu) - Get student license [here](https://www.jetbrains.com/shop/eform/students)
  - Or any other text editor / IDE you prefer
 
-## Python
+## Python (For Mac)
 **Open Terminal from applications and enter these commands:**
 
 *Homebrew*

@@ -31,5 +31,5 @@ pip3 install virtualenv
 ```
 hostname: mysql.nudm.org
 username: nudm_read
-password: wN#zLFrvvLMnQ@%au9E+GPDLbC$Um#3
+password: *******
 ```
